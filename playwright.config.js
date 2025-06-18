@@ -1,8 +1,7 @@
 /**  
-* @author Rajat Verma
-* https://www.linkedin.com/in/rajat-v-3b0685128/
-* https://github.com/rajatt95
-* https://rajatt95.github.io/ 
+* @author Bilal Hussain
+* https://www.linkedin.com/in/bilal929/
+* https://github.com/bilal1290
 *  
 * Course: Playwright JS Automation Testing from Scratch with Framework (https://www.udemy.com/course/playwright-tutorials-automation-testing/)
 * Tutor: Rahul Shetty (https://www.udemy.com/user/rahul445/)
